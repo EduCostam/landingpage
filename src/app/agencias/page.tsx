@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const agencias = () => {
+const Agencias = () => {
   return (
     <div>
       <h1>agencias</h1>
@@ -9,4 +9,4 @@ const agencias = () => {
   );
 };
 
-export default agencias;
+export default Agencias;
